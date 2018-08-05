@@ -1,0 +1,27 @@
+{
+  "name": "@njn/core",
+  "version": "0.0.0",
+  "description": "Core functionality to execute actions from iterators",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbachhardie/njn.git"
+  },
+  "keywords": [
+    "async",
+    "action",
+    "iterator",
+    "generator"
+  ],
+  "author": "Jae Anne Bach Hardie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbachhardie/njn/issues"
+  },
+  "homepage": "https://github.com/jbachhardie/njn#readme",
+  "devDependencies": {}
+}
